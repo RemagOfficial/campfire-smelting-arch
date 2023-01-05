@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "cs",
+  "version": "${version}",
+  "name": "Campfire Smelting",
+  "description": "Lets you smelt ores with a campfire",
+  "authors": [
+    "Me!"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "Insert License Here",
+  "icon": "assets/campfiresmelting/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.campfiresmelting.fabric.CampfireSmeltingFabric"
+    ]
+  },
+  "depends": {
+    "fabric": "*",
+    "minecraft": ">=1.19.2",
+    "architectury": ">=6.2.43"
+  }
+}
