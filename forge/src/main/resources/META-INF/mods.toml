@@ -1,7 +1,8 @@
 modLoader = "javafml"
 loaderVersion = "[43,)"
 #issueTrackerURL = ""
-license = "Insert License Here"
+license = "GPLv3"
+
 
 [[mods]]
 modId = "cs"
@@ -11,7 +12,8 @@ authors = "Remag"
 description = '''
 Lets you smelt ores with a campfire
 '''
-#logoFile = ""
+logoFile = "icon.png"
+displayURL = "https://github.com/RemagOfficial/campfire-smelting-arch"
 
 [[dependencies.cs]]
 modId = "forge"

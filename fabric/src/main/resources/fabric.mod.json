@@ -5,14 +5,13 @@
   "name": "Campfire Smelting",
   "description": "Lets you smelt ores with a campfire",
   "authors": [
-    "Me!"
+    "Remag"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/RemagOfficial/campfire-smelting-arch"
   },
-  "license": "Insert License Here",
-  "icon": "assets/campfiresmelting/icon.png",
+  "license": "GPLv3",
+  "icon": "icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
